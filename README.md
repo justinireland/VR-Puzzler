@@ -1,6 +1,9 @@
 # Introduction
 VR Puzzler is a Virtual Reality based puzzle game set in a dark dungeon. The viewer enters a dungeon and must solve a simple memory puzzle (similar to Simon Says) in order to exit the dungeon. Upon completion the user is given the option to play again.
 
+# About Me
+My name is [Justin Ireland](http://justinireland.com) and I developed this VR puzzle game as part of Udacity's VR Nanodegree program. I have been working with VR and simulation, and immersive display systems since 2004 but in the last 6 years I've been focusing more on interactive application development.
+
 # Development Process
 The process to develop this VR game consisted of several stages:
 * Creating wireframe sketches to depict the environment and UI layouts.
@@ -31,13 +34,18 @@ Once the dungeon was fully modeled I added lights and adjusted them until they c
 ![Dungeon Lighting](./Documentation/images/environment2.jpg 'Dungeon lighting')
         
 ## User Testing
-I tested the game with my girlfriend, Emily. I would not consider Emily a gamer although she has tried some VR applications (at my behest) before. 
+
+### User Test 1
+I first tested the game with my girlfriend, Emily. I would not consider Emily a gamer although she has tried some VR applications (at my behest) before. 
 
 ![User Test](./Documentation/images/user_test1.jpg)
         
 Emily had no trouble figuring out how to play the game and was successful on her first attempt. The main feedback I received from her was:
 * There should be more puzzles
 * The viewing angle seemed relatively low
+
+### User Test 2
+My second user test was with my friend, Matt. Matt is not what you might consider a gamer, nor has he had any previous experience with VR. However, Matt enjoyed the experience and did not have any other suggestions or recommendations.
 
 ## Final Build
 Based on my user testing feedback I raised the viewing position along the Y axis.
